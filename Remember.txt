@@ -1,0 +1,23 @@
+<div class="row">
+                    <div class="col-sm-12 margin-x25">
+                        <!-- Spacer -->
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <hr>
+                            </div>
+                        </div>
+                        <!-- Time Slot Picker -->
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <table id="time_select" class="table"><thead><tr><th>Date (MM/DD/YYYY) </th><th>Time</th><th>Availability</th></tr></thead><tbody><tr><td><div class="radio"><label><input type="radio" id="879b8328-cdff-ef11-9341-001dd808bf85" name="schedule-entries" value="879b8328-cdff-ef11-9341-001dd808bf85" data-slots="38" onclick="onSelectScheduleEntry(this)">04/24/2026</label></div></td><td><div>08:00</div></td><td><div>38</div></td></tr><tr><td><div class="radio"><label><input type="radio" id="889b8328-cdff-ef11-9341-001dd808bf85" name="schedule-entries" value="889b8328-cdff-ef11-9341-001dd808bf85" data-slots="43" onclick="onSelectScheduleEntry(this)">04/24/2026</label></div></td><td><div>08:30</div></td><td><div>43</div></td></tr><tr><td><div class="radio"><label><input type="radio" id="899b8328-cdff-ef11-9341-001dd808bf85" name="schedule-entries" value="899b8328-cdff-ef11-9341-001dd808bf85" data-slots="37" onclick="onSelectScheduleEntry(this)">04/24/2026</label></div></td><td><div>09:30</div></td><td><div>37</div></td></tr><tr><td><div class="radio"><label><input type="radio" id="8a9b8328-cdff-ef11-9341-001dd808bf85" name="schedule-entries" value="8a9b8328-cdff-ef11-9341-001dd808bf85" data-slots="29" onclick="onSelectScheduleEntry(this)">04/24/2026</label></div></td><td><div>10:00</div></td><td><div>29</div></td></tr><tr><td><div class="radio"><label><input type="radio" id="8b9b8328-cdff-ef11-9341-001dd808bf85" name="schedule-entries" value="8b9b8328-cdff-ef11-9341-001dd808bf85" data-slots="41" onclick="onSelectScheduleEntry(this)">04/24/2026</label></div></td><td><div>10:30</div></td><td><div>41</div></td></tr><tr><td><div class="radio"><label><input type="radio" id="8c9b8328-cdff-ef11-9341-001dd808bf85" name="schedule-entries" value="8c9b8328-cdff-ef11-9341-001dd808bf85" data-slots="12" onclick="onSelectScheduleEntry(this)">04/24/2026</label></div></td><td><div>11:00</div></td><td><div>12</div></td></tr></tbody></table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+<td class=" greenday" data-handler="selectDay" 
+data-event="click" data-month="3" 
+data-year="2026"><a class="ui-state-default" 
+href="#" aria-current="false" data-date="13">13</a></td>
